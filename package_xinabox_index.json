@@ -117,8 +117,8 @@
                     "category": "XinaBox",
                     "url": "https://github.com/xinabox/ArduinoCore-samd/blob/master/version/xinabox-samd-1.0.0.zip",
                     "archiveFileName": "xinabox-samd-1.0.0.zip",
-                    "checksum": "SHA-256:b329192f4857d0d1eca21e52b584d13a599c08c064ca9434bfce891027de207e",
-                    "size": "4339931",
+                    "checksum": "SHA-256:f406d4f17b0f43790ecf41dd2082f9f3322895909baffd89bb74b31b457fe23e",
+                    "size": "4338511",
                     "boards": [
                         {
                             "name": "XinaBox CC03 (USB Native)"
@@ -176,8 +176,8 @@
                     "category": "XinaBox",
                     "url": "https://github.com/xinabox/ArduinoCore-samd/blob/master/version/xinabox-samd-1.0.0.zip",
                     "archiveFileName": "xinabox-samd-1.0.0.zip",
-                    "checksum": "SHA-256:b329192f4857d0d1eca21e52b584d13a599c08c064ca9434bfce891027de207e",
-                    "size": "4339931",
+                    "checksum": "SHA-256:de7c6b8d568e8be7d0d8322531f01fa45c8b7539438e20593b124d504c41fc5a",
+                    "size": "1290687",
                     "boards": [
                         {
                             "name": "XinaBox CC03 (USB Native)"
