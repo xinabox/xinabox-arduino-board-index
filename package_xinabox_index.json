@@ -112,7 +112,7 @@
                     "architecture": "samd",
                     "version": "1.0.2",
                     "category": "XinaBox",
-                    "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.2.tar.gz",
+                    "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.2.tar.gz?raw=true",
                     "archiveFileName": "xinabox-samd-1.0.2.tar.gz",
                     "checksum": "SHA-256:8d21b60ef0b3291612a752801ac9318475cc6b4241fff349f5da89f7ca48554a",
                     "size": "37786471",
@@ -176,3 +176,5 @@
         }
     ]
 }
+
+// 05e2b18578deef15a935aa34e9d5910c118423ac2b11b02a755d64b7d28f3c08
