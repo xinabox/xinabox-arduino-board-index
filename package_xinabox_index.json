@@ -113,65 +113,6 @@
                 {
                     "name": "XinaBox SAMD Boards",
                     "architecture": "samd",
-                    "version": "1.0.0",
-                    "category": "XinaBox",
-                    "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.0.zip",
-                    "archiveFileName": "xinabox-samd-1.0.0.zip",
-                    "checksum": "SHA-256:f406d4f17b0f43790ecf41dd2082f9f3322895909baffd89bb74b31b457fe23e",
-                    "size": "4338511",
-                    "boards": [
-                        {
-                            "name": "XinaBox CC03 (USB Native)"
-                        },
-                        {
-                            "name": "XinaBox CC03 (USB Native)"
-                        },
-                        {
-                            "name": "XinaBox CC03 (USB Native)"
-                        },
-                        {
-                            "name": "XinaBox CC04"
-                        },
-                        {
-                            "name": "XinaBox DB01"
-                        }
-                    ],
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "arm-none-eabi-gcc",
-                            "version": "4.8.3-2014q1"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "bossac",
-                            "version": "1.7.0"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "bossac",
-                            "version": "1.8.0-48-gb176eee"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "openocd",
-                            "version": "0.9.0-arduino"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "CMSIS",
-                            "version": "4.5.0"
-                        },
-                        {
-                            "packager": "arduino",
-                            "name": "CMSIS-Atmel",
-                            "version": "1.2.0"
-                        }
-                    ]
-                },
-                {
-                    "name": "XinaBox SAMD Boards",
-                    "architecture": "samd",
                     "version": "1.0.1",
                     "category": "XinaBox",
                     "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.1.zip",
@@ -180,19 +121,25 @@
                     "size": "1290687",
                     "boards": [
                         {
-                            "name": "XinaBox CC03 (USB Native)"
+                            "name": "MKR1000 (USB Native)"
+                        },
+                        {
+                            "name": "Nano 33 IoT (USB Native)"
+                        },
+                        {
+                            "name": "MKR1010 (USB Native)"
                         },
                         {
                             "name": "XinaBox CC03 (USB Native)"
                         },
                         {
-                            "name": "XinaBox CC03 (USB Native)"
+                            "name": "XinaBox CS11 (USB Native)"
                         },
                         {
-                            "name": "XinaBox CC04"
+                            "name": "XinaBox CW03 (USB Native)"
                         },
                         {
-                            "name": "XinaBox DB01"
+                            "name": "XinaBox DB01 (USB Native)"
                         }
                     ],
                     "toolsDependencies": [
