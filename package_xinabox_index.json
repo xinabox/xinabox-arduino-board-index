@@ -112,10 +112,10 @@
                     "architecture": "samd",
                     "version": "1.0.2",
                     "category": "XinaBox",
-                    "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.2.zip",
-                    "archiveFileName": "xinabox-samd-1.0.2.zip",
-                    "checksum": "SHA-256:fb50d18af6985e2864ec51e61d3466fda36d723608456d120d9e8d071912937b",
-                    "size": "1290695",
+                    "url": "https://github.com/xinabox/xinabox-arduino-board-index/blob/master/boards/xinabox-samd-1.0.2.tar.gz",
+                    "archiveFileName": "xinabox-samd-1.0.2.tar.gz",
+                    "checksum": "SHA-256:8d21b60ef0b3291612a752801ac9318475cc6b4241fff349f5da89f7ca48554a",
+                    "size": "37786471",
                     "boards": [
                         {
                             "name": "MKR1000 (USB Native)"
